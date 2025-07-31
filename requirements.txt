@@ -1,0 +1,26 @@
+# Python dependencies for MonkeyPox Image Classification
+
+# Core machine learning libraries
+tensorflow>=2.8.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Image processing
+Pillow>=8.0.0
+
+# Data manipulation
+pandas>=1.3.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Progress bars and utilities
+tqdm>=4.60.0
+
+# For model evaluation metrics
+scikit-image>=0.18.0
